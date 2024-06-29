@@ -1,3 +1,3 @@
-createfixture.php (Takım isimleri girip fikstürü oluşturmak içindir)<br>
-fixtures.php (fikstürü görüntüleyip skorları güncellemek içindir ve aynı zamanda fikstürü ve takımları buradan temizleyebilirsiniz)
-index.php (kullanıcıların puan tablosu ve fikstürü görüntülediği sayfadır)
+* Öncelikle createfiksture.php sayfasına admin girişi yapıp takım isimlerini girip fikstürü oluşturuyorsunuz.<br>
+* Daha sonra fixtures.php sayfasından maç skorlarını giriyorsunuz ve anlık puan tablosunda güncellenmiş oluyor. Her skoru girdiğinizde güncelle butonuna basmanız gerekir. Yeni fikstür oluşturmadan önce buradan önce Fikstürü sil ve daha sonra Takımları Sil butonuna tıklayınız.<br>
+* Kullanıcılar ise index.php sayfasından anlık puan tablosu ve fikstürü takip edebilir.
